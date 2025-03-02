@@ -86,7 +86,13 @@ This project demonstrates training two deep learning models to detect 68 facial 
 
 2. **Run script**:
    - face_landmarks.ipynb
-   
+
+## Weights path
+- https://drive.google.com/file/d/1VJ9S2mOI7hID1m3xBIUGVjflmk4Na6z3/view?usp=drive_link
+- https://drive.google.com/file/d/1PkVqwleE6bMfBAYtVqu6l4ha_Yva5mMJ/view?usp=drive_link
+- https://drive.google.com/file/d/1OH7BavMaTzsLBkkaoebEGdZY1Gg9Ypl-/view?usp=drive_link
+- https://drive.google.com/file/d/1VgOWXP2BUW8CkrGQnAFhmhDfAu0FmoIh/view?usp=drive_link
+
 ## Requirements
 - TensorFlow 2.x
 - Matplotlib
